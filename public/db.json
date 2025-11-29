@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Red Bull Energy Drink",
+      "description": "Red Bull Energy Drink dünya miqyasında yüksək səviyyəli atletlər tərəfindən qiymətləndirilən içkidir.",
+      "image": "https://www.redbull.com/energydrink/v1/resources/storyblok/images/f/287059/528x1348/e4d03d54d0/int_zr_250ml_energy-drink_country__cold_closed_front_com_full.png/m/310x0",
+      "category": "Energy Drinks"
+    },
+    {
+      "id": 2,
+      "title": "Red Bull Sugarfree",
+      "description": "Şəkərsiz Red Bull Energy Drink versiyası",
+      "image": "https://www.redbull.com/energydrink/v1/resources/storyblok/images/f/287059/528x1348/4b21f6a617/gb_sf_250ml_sugarfree_country_rgb__cold_closed_front_com_full.png/m/310x0",
+      "category": "Energy Drinks"
+    },
+     {
+      "id": 3,
+      "title": "Red Bull Energy Drink",
+      "description": "Red Bull Energy Drink dünya miqyasında yüksək səviyyəli atletlər tərəfindən qiymətləndirilən içkidir.",
+      "image": "https://www.redbull.com/energydrink/v1/resources/storyblok/images/f/287059/528x1348/53e078bcb9/gb_ed_250ml_energy-drink_country_rgb__cold_closed_front_com_full.png/m/310x0",
+      "category": "Energy Drinks"
+    },
+    {
+      "id": 4,
+      "title": "Red Bull Sugarfree orange",
+      "description": "Şəkərsiz Red Bull Energy Drink versiyası",
+      "image": "https://www.redbull.com/energydrink/v1/resources/storyblok/images/f/287059/528x1348/737d5ca3d2/gb_fai_250ml_ac_the-winter-edition_country_rgb_packrq-3181_cold_closed_front_com_full-1.png/m/616x0",
+      "category": "Energy Drinks"
+    },
+     {
+      "id": 5,
+      "title": "Red Bull Energy Drink Pink",
+      "description": "Red Bull Energy Drink dünya miqyasında yüksək səviyyəli atletlər tərəfindən qiymətləndirilən içkidir.",
+      "image": "https://www.redbull.com/energydrink/v1/resources/storyblok/images/f/287059/528x1348/5bbaca8a64/nz_wp_250ml_ac_the-summer-edition_country_rgb_packrq-3278_cold_closed_front_com_full.png/m/616x0",
+      "category": "Energy Drinks"
+    },
+    {
+      "id": 6,
+      "title": "Red Bull Yellow",
+      "description": "Şəkərsiz Red Bull Energy Drink versiyası",
+      "image": "https://cdn.mafrservices.com/sys-master-root/hb3/hdd/51636931657758/1299010_main.jpg",
+      "category": "Energy Drinks"
+    }
+  ]
+}
